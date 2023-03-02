@@ -1,0 +1,14 @@
+be transfer
+be slow
+car prohibit
+entering prohibit
+narrow
+left prohibit
+turn around prohibit
+motorcycle prohibit
+parking prohibit
+right and left prohibit
+right prohibit
+speed limit
+take photo
+road trsnsfer
